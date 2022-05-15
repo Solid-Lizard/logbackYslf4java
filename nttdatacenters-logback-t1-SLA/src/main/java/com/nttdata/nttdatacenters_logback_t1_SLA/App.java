@@ -11,7 +11,7 @@ import java.util.Scanner;
 /* DESCRIPCIÓN DEL EJERCICIO */
 
 /*Creamos un programa que, dados un nombre, dirección y una serie de parámetros, calcula una factura, 
-  y imprime los datos en un archivo llamado "factura.txt", ubicado en "./Factura"
+  y imprime los datos en un archivo llamado "factura.txt"
  */
 
 
@@ -59,9 +59,7 @@ public class App {
     	
     	// Variables //
     	double cantidad, luz, agua, gas, total;
-    	String nombre, calle, NIF;    	    
-    	    	
-    	//Luz, agua, gas, teléfono
+    	String nombre, calle, NIF;    	        	    	    	
     	
     	//Tablas
     	double [] costoPorUnidad = {1.91, 1.16, 0.14};    	
