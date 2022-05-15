@@ -1,0 +1,24 @@
+----------RESUMEN DE GASTOS MENSUALES---------- 
+              -DATOS DEL CLIENTE- 
+--Nombre del cliente: Cliente de ejemplo
+--Residencia: C/Noexiste nº\|@#~€¬789078990'¡¡][
+--NIF: 12345678a
+----------------------------------------------- 
+             -DATOS DE LA FACTURA- 
+---Consumo de luz--- 
+-KWh consumidos de media al día: 10.0
+-KWh comsumidos al mes 300.0
+-Precio a pagar: 573.0
+
+---Consumo de agua--- 
+-m3 consumidos de media al día: 23.0
+-m3 comsumidos al mes 690.0
+-Precio a pagar: 26.68
+
+---Consumo de gas--- 
+-KWh consumidos de media al día: 15.0
+-KWh comsumidos al mes 450.0
+-Precio a pagar: 2.1
+----------------------------------------------- 
+--Total a pagar: 601.78€
+----------------------------------------------- 

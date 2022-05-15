@@ -1,0 +1,54 @@
+[12:38:43] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:53)
+ - [main] - INICIO DE TRAZA
+
+[12:38:43] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:69)
+ - [main] - OBJETOS Y VARIABLES DECLARADOS E INICIALIZADOS CORRECTAMENTE
+
+[12:38:52] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:75)
+ - [main] - VALOR DE NOMBRE: Cliente de ejemplo
+
+[12:39:23] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:79)
+ - [main] - VALOR DE CALLE: C/Noexiste nº\|@#~€¬789078990'¡¡][
+
+[12:39:33] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:23)
+ - [main] - INICIO DEL MÉTODO, COMPROBANDO LA CADENA: 123456789
+
+[12:39:33] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:35)
+ - [main] - TABLA ABECEDARIO RELLENADA CORRECTAMENTE, VALORES: [A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z]
+
+[12:39:33] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:45)
+ - [main] - MÉTODO FINALIZADO, VALOR DEVUELTO: false
+
+[12:39:40] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:23)
+ - [main] - INICIO DEL MÉTODO, COMPROBANDO LA CADENA: 12345678A
+
+[12:39:40] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:35)
+ - [main] - TABLA ABECEDARIO RELLENADA CORRECTAMENTE, VALORES: [A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z]
+
+[12:39:40] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.endsWithLetter(App.java:45)
+ - [main] - MÉTODO FINALIZADO, VALOR DEVUELTO: true
+
+[12:39:40] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:90)
+ - [main] - VALOR DE NIF: 12345678a
+
+[12:39:40] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:100)
+ - [main] - Datos del cliente implementados correctamente en factura.txt
+
+[12:39:54] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:114)
+ - [main] - Datos de consumo de luz introducidos, consumo: 10.0 -precio: 573.0
+
+[12:39:57] - INFO - sApp - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:126)
+ - [main] - Datos de consumo de agua introducidos, consumo: 23.0 -precio: 26.68
+
+[12:39:59] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:136)
+ - [main] - Datos de consumo de gas introducidos, consumo: 15.0 -precio: 2.1
+
+[12:39:59] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:144)
+ - [main] - Datos totales de consumo introducido, valor de toral: 601.78
+
+[12:39:59] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:148)
+ - [main] - Flujo de entrada cerrado correctamente, comrpobar el archivo: factura.txt
+
+[12:39:59] - INFO - App - Caller+0	 at com.nttdata.nttdatacenters_logback_t1_SLA.App.main(App.java:157)
+ - [main] - FIN DE TRAZA
+
